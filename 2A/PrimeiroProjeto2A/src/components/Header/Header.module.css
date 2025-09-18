@@ -1,6 +1,6 @@
 .header {
     height: 100px;
-    background-color: aqua;
+    background-color: rgb(202, 174, 243);
     padding: 10px;
 }
 
@@ -14,11 +14,11 @@
 .ulSubMenu {
     font-size: 18px;
     padding-left: 10px;
-    max-width: 0;
+    max-height: 0;
     overflow: hidden;
 }
 
-.liMenu:hover .ulSubmenu {
+.liMenu:hover .ulSubMenu {
     max-height: 100vh;
 }
 
@@ -28,5 +28,5 @@
 }
 
 .link:hover {
-    color: darkgray;
+    color: rgb(136, 62, 255);
 }
