@@ -6,3 +6,17 @@ color: aliceblue;
   font-size: 4rem;
 
 }
+
+.box {
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+}
+
+.colorido{
+  background-color: yellow;
+}
+
+.cinza{
+  background-color: gray;
+}
